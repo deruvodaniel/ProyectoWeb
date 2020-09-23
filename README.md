@@ -1,1 +1,1 @@
-Simple Pryect using Bootstrap 4
+Simple Project using Bootstrap 4
